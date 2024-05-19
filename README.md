@@ -3,11 +3,12 @@ Introduction
 Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite, this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
 
 ⚙️ Tech Stack
-React Native
-Expo
-Nativewind
-Animatable
-Appwrite
+- React Native
+- Expo
+- Nativewind
+- Animatable
+- Appwrite
+  
 🔋 Features
 👉 Onboarding Screen: Engaging graphics and clear instructions welcome users to the app.
 
@@ -56,7 +57,7 @@ npm start
 Expo Go
 
 Download the Expo Go app onto your device, then use it to scan the QR code from Terminal and run.
-(App available on Play store might run with SDK issues in that case download the app from the link for SDK 50 in the app. Then uninstall the Expo app downloaded from play store and install it using the apk downloaded. Then repeat the same process of scanning QR)
+(App available on Play store might run with SDK issues in that case download the app from the link for SDK 50 in the app. Then uninstall the Expo app downloaded from play store and install it using the apk downloaded. Then repeat the same process of scanning QR.)
 
 🕸️ Snippets
 tailwind.config.js
