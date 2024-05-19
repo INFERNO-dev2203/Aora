@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# build output
+/build
+/dist
+
+# IDE files
+/.idea
+/.vscode
+
+# logs
+/logs
+
+# misc
+.DS_Store
